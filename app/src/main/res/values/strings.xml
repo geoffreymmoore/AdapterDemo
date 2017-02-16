@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adapter Demo</string>
+
+    <string-array name="list_adaptor_array">
+        <item>Apple</item>
+        <item>Android</item>
+        <item>eBay</item>
+        <item>Amazon</item>
+        <item>Google</item>
+    </string-array>
+</resources>
